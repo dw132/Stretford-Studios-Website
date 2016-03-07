@@ -1,0 +1,29 @@
+/* ADDED ------------------------*/
+
+
+#instawidget2 {
+	 
+	 display: none;}
+
+#headerbanner {
+
+      display: none;}
+
+
+#mapmobile {
+	 
+	 display: none;}
+
+.link-caption {
+	width: 60%; 
+	padding: 1%;  
+	left: 10px; 
+	bottom: -10px; 
+	background: rgba(255,255,255,.9);
+	color: black; 
+	text-shadow: 0 -1px 0 rgba(0,0,0,.2); 
+	font-size: 20px; 
+	line-height: 24px;
+	font-family: 'Yanone Kaffeesatz', Arial, sans-serif;
+}
+
